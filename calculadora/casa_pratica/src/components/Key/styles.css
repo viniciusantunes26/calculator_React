@@ -1,0 +1,10 @@
+.key {
+  background-color: rgba(1, 130, 147, 0.434);
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.566);
+  font-size: 25px;
+}
+
+.key:hover {
+  background-color: rgba(23, 6, 150, 0.724);
+}
